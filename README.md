@@ -6,10 +6,6 @@
 - 🎯 Goal (2021): Contribute openly to Data Science and Machine Learning community.
 - 📌 Scroll down to see Repositories.
 
-def prithvi():
-  skills_with_proficiency = {'Python': 'Intermediate', 'SQL': 'Intermidiate'}
-  tools = ['numpy', 'pandas', 'sklearn', 'nltk', 'matplotlib', 'seaborn', 'keras', 'flask', 'tensorflow']
-  cloud_architecture = ['heroku']
-  kaggle_competitions = 1
-  return ∞
-
+- skills_with_proficiency = 'Python': 'Intermediate', 'SQL': 'Intermidiate'
+- tools = 'numpy', 'pandas', 'sklearn', 'nltk', 'matplotlib', 'seaborn', 'keras', 'flask', 'tensorflow'
+-  cloud_architecture = 'heroku'
