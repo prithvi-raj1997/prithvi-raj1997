@@ -6,6 +6,6 @@
 - 🎯 Goal (2021): Contribute openly to Data Science and Machine Learning community.
 - 📌 Scroll down to see Repositories.
 
-- skills_with_proficiency = 'Python': 'Intermediate', 'SQL': 'Intermidiate'
+- skills_with_proficiency = 'Python': 'Intermediate', 'R': 'Intermediate', 'SQL': 'Intermidiate'
 - tools = 'numpy', 'pandas', 'sklearn', 'nltk', 'matplotlib', 'seaborn', 'keras', 'flask', 'tensorflow'
 -  cloud_architecture = 'heroku'
