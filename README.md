@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Prithvi Raj
+- 👋 Hi, I’m Choudary Prithvi Raj
 - 🎓 I'm "Certified Machine Learning Professional-2021" from Edvancer Edventures
 - 🌱 I'm currently learning AI & DL Algorithms from Edvancer Edventures and Kaggle.
 - 💻 I'm looking for opportunities in Machine Learning domain.
